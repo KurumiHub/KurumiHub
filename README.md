@@ -9,7 +9,7 @@
     🎮 Music • Games • Anime • Code
 </pre>
 <br><br>
-<img src="https://cdn.discordapp.com/attachments/529201592801427469/1253412415396384809/VID_20240621_010918.gif?ex=6675c2c7&is=66747147&hm=17a503821ac90592ee78203f5eacf289257a39e46f5a29b26582fb12cd5f24cf&" height="40" />
+<img src="https://github.com/KurumiHub/KurumiAll/blob/main/Kurumi/VID_20240621_010918.gif" height="40" />
 <br><br><br>
     
 [![]()
